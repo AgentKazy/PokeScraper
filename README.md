@@ -1,4 +1,4 @@
-# PokeScraper
+# PokeScraper, Oct. 29th 2019
 A Resource (Google Sheets tab) automatic builder.
 
 By AgentKazy and KoenigDerLuegner
